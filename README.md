@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <h2>Screenshots</h2>
 <div style="display: flex; gap: 10px;">
     <h3>Landing page : </h3>
@@ -58,8 +57,8 @@
 
 # Project setup
 1. clone the repository:
-```
-https://github.com/Resha-Munikar/Eventify.git
+   ```
+   https://github.com/bristimaharjan/Event_mgm.git
 ```
 2. Install Dependencies:
    ```
