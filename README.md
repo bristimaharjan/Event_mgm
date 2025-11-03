@@ -86,8 +86,4 @@
    ```
 **Note:** Vite and Tailwind CSS are auto configured with every Laravel projects. No need to manually configure them.
 =======
-# Event_mgm
->>>>>>> e68e0698fd6d2386f1aa1e8d4f1cf633217a05e0
-=======
-# Event_mgm
->>>>>>> e68e0698fd6d2386f1aa1e8d4f1cf633217a05e0
+
