@@ -87,3 +87,4 @@
 **Note:** Vite and Tailwind CSS are auto configured with every Laravel projects. No need to manually configure them.
 =======
 
+[Eventify documentation.pdf](https://github.com/user-attachments/files/26399358/Eventify.documentation.pdf)
